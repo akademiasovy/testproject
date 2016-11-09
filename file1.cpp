@@ -15,6 +15,7 @@ double priemer(double a, double b){
 
 main()    // hlavna metoda
 {         // zaciatok hlavnej metody
+     printf("Hello");
      int a,b;
      a=87; b=54;
      double x=priemer(a,b);
